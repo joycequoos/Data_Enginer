@@ -17,7 +17,7 @@ Página dedicada ao estudo de Engenharia de Dados
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial">Orquestração de Dados com Apache Airflow (Parte 2)</a></p>
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_P_2">Orquestração de Dados com Apache Airflow (Parte 2)</a></p>
 </div> 
 
 
