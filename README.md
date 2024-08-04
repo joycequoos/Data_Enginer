@@ -20,6 +20,8 @@ Página dedicada ao estudo de Engenharia de Dados
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_P_2">Orquestração de Dados com Apache Airflow (Astro Python SDK)</a></p>
 </div> 
 
+https://registry.astronomer.io/
+
 
 ### 3) Docker
 
