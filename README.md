@@ -29,9 +29,5 @@ https://registry.astronomer.io/
 <p><a href="https://github.com/JosiTubaroski/Docker/blob/main/README.md">Docker</a></p>
 </div> 
 
-### 4)Agendamento com Python (Em Andamento)
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/AWS">Agendamento com Python</a></p>
-</div> 
-
+### 4) GoogleCloud / BigQuery 
