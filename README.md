@@ -39,7 +39,7 @@ https://registry.astronomer.io/
 ### 5)  Kubernetes
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Kubernetes">BigQuery</a></p>
+<p><a href="https://github.com/JosiTubaroski/Kubernetes">Kubernetes</a></p>
 </div> 
 
 
