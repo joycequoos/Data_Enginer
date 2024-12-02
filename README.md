@@ -20,6 +20,10 @@ Página dedicada ao estudo de Engenharia de Dados
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_P_2">Orquestração de Dados com Apache Airflow (Astro Python SDK)</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_P_2">Construção de uma DAG do Apache Airflow que lê um arquivo .csv e carrega os dados para o Google BigQuery</a></p>
+</div> 
+
 https://registry.astronomer.io/
 
 
