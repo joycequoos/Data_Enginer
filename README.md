@@ -7,7 +7,7 @@ Página dedicada ao estudo de Engenharia de Dados
 ### 1) Fundamentos para Engenharia de Dados
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/AWS">Um pouco sobre o universo da AWS e alguns dos seus principais serviços</a></p>
+<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Fundamentos para Engenharia de dados</a></p>
 </div> 
 
 ### 2) AWS (Amazon Web Services)
