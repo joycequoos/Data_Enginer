@@ -4,13 +4,19 @@ Página dedicada ao estudo de Engenharia de Dados
 
 <b>Vamos entender sobre: </b>
 
-### 1) AWS (Amazon Web Services)
+### 1) Fundamentos para Engenharia de Dados
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/AWS">Um pouco sobre o universo da AWS e alguns dos seus principais serviços</a></p>
 </div> 
 
-### 2) Apache Airflow
+### 2) AWS (Amazon Web Services)
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/AWS">Um pouco sobre o universo da AWS e alguns dos seus principais serviços</a></p>
+</div> 
+
+### 3) Apache Airflow
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial">Orquestração de Dados com Apache Airflow (Primeiros Passos)</a></p>
@@ -27,20 +33,20 @@ Página dedicada ao estudo de Engenharia de Dados
 https://registry.astronomer.io/
 
 
-### 3) Docker
+### 4) Docker
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Docker/blob/main/README.md">Docker</a></p>
 </div> 
 
 
-### 4) GoogleCloud / BigQuery 
+### 5) GoogleCloud / BigQuery 
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/GoogleCloud_BigQuer">BigQuery</a></p>
 </div> 
 
-### 5)  Kubernetes
+### 6)  Kubernetes
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Kubernetes">Kubernetes</a></p>
