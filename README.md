@@ -60,5 +60,18 @@ https://registry.astronomer.io/
 </div> 
 
 
+<h3 align="left">Projetos de Engenharia e Analise de dados:</h3>
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Prevencao_Lavagem_Dinheiro/Rastreamento_prevencao_Lavagem_Dinheiro.ipynb">1 - Prevenção a Lavagem de Dinheiro</a></p>
+</div> 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/APIIBGE_Agropecuarios_com_Suinos/APIIBGE_Agropecuarios_com_Suinos.ipynb">2 - API IBGE Agropecuarios com suínos</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/README.md">3 - Pipeline de Dados com Airflow, para processamento de dados de Cliente </a></p>
+</div> 
+
+
 
 
