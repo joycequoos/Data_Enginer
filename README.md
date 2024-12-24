@@ -76,13 +76,13 @@ https://registry.astronomer.io/
 <p><a href="https://github.com/JosiTubaroski/ETL_com_python">4 - ETL com Python.</a></p>
 </div> 
 
- 9) Airflow / ETL
+ ### 9) Airflow / ETL
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py">1 - Script de uma DAG que realiza a leitura de um arquivo .csv.</a></p>
 </div> 
    
- - SQL
+### 10) SQL
 <div> 
 <p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
 </div> 
