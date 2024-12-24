@@ -4,26 +4,26 @@ Página dedicada ao estudo de Engenharia de Dados
 
 <b>Vamos entender sobre: </b>
 
-### 1) Fundamentos para Engenharia de Dados
+### 01) Fundamentos para Engenharia de Dados
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Fundamentos para Engenharia de dados</a></p>
 </div> 
 
-### 2) Git/GitHub
+### 02) Git/GitHub
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Git_GitHub">Sobre Git/GitHub </a></p>
 </div> 
 
 
-### 3) AWS (Amazon Web Services)
+### 03) AWS (Amazon Web Services)
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/AWS">Um pouco sobre o universo da AWS e alguns dos seus principais serviços</a></p>
 </div> 
 
-### 4) Apache Airflow
+### 04) Apache Airflow
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial">Orquestração de Dados com Apache Airflow (Primeiros Passos)</a></p>
@@ -40,26 +40,26 @@ Página dedicada ao estudo de Engenharia de Dados
 https://registry.astronomer.io/
 
 
-### 5) Docker
+### 05) Docker
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Docker/blob/main/README.md">Docker</a></p>
 </div> 
 
 
-### 6) GoogleCloud / BigQuery 
+### 06) GoogleCloud / BigQuery 
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/GoogleCloud_BigQuer">BigQuery</a></p>
 </div> 
 
-### 7)  Kubernetes
+### 07)  Kubernetes
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Kubernetes">Kubernetes</a></p>
 </div> 
 
-### 8) ETL (Extract, Transform, Load)
+### 08) ETL (Extract, Transform, Load)
 <div> 
 <p><a href="https://github.com/JosiTubaroski/ETL_Integration_Service">1 - Integration Services e exemplos de arquivos DTSX.</a></p>
 </div> 
@@ -76,13 +76,18 @@ https://registry.astronomer.io/
 <p><a href="https://github.com/JosiTubaroski/ETL_com_python">4 - ETL com Python.</a></p>
 </div> 
 
- ### 9) Airflow / ETL
+ ### 09) Airflow / ETL
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py">1 - Script de uma DAG que realiza a leitura de um arquivo .csv.</a></p>
 </div> 
+
+### 10) Leitura e entendimento de arquivos JSON
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">Arquivos JSON em Python</a></p>
+</div> 
    
-### 10) SQL
+### 11) SQL
 <div> 
 <p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
 </div> 
