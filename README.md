@@ -10,7 +10,7 @@ Página dedicada ao estudo de Engenharia de Dados
 <p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Fundamentos para Engenharia de dados</a></p>
 </div> 
 
-# 2) Git/GitHub
+### 2) Git/GitHub
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Git_GitHub">Sobre Git/GitHub </a></p>
@@ -57,6 +57,48 @@ https://registry.astronomer.io/
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Kubernetes">Kubernetes</a></p>
+</div> 
+
+<h3 align="left">Conteúdos:</h3>
+
+8) ETL (Extract, Transform, Load)
+<div> 
+<p><a href="https://github.com/JosiTubaroski/ETL_Integration_Service">1 - Integration Services e exemplos de arquivos DTSX.</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/BulkInsert/tree/main#readme">2 - ETL utilizando Bulk Insert.</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/BulkInsert/tree/main/Substring_Leitura_layout_arquivo">3 - Utilizando substring para layout de arquivo com delimitador.</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/ETL_com_python">4 - ETL com Python.</a></p>
+</div> 
+
+ 9) Airflow / ETL
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py">1 - Script de uma DAG que realiza a leitura de um arquivo .csv.</a></p>
+</div> 
+   
+ - SQL
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure">2 - Programação Stored Procedures</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.">3 - Tuning SQL Server Developer</a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/SQL/blob/main/SQL_Json/01_Importar_Arquivo_JsonSQL.sql">4 - Importar arquivos JSON no SQL</a></p>
 </div> 
 
 
