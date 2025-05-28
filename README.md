@@ -8,10 +8,10 @@ Página dedicada ao estudo de Engenharia de Dados
 
 <b>Vamos entender sobre: </b>
 
-### 01) Fundamentos para Engenharia de Dados
+### 01) Engenharia de Dados Academy
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Fundamentos para Engenharia de dados</a></p>
+<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Engenharia de dados Academy</a></p>
 </div> 
 
 ### 02) Git/GitHub
