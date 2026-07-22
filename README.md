@@ -110,6 +110,12 @@ https://registry.astronomer.io/
 <p><a href="https://github.com/JosiTubaroski/SQL/blob/main/SQL_Json/01_Importar_Arquivo_JsonSQL.sql">4 - Importar arquivos JSON no SQL</a></p>
 </div> 
 
+### 12) Engenharia de Dados Academy
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Engenharia de dados Academy</a></p>
+</div> 
+
 
 <h3 align="left">Projetos de Engenharia e Analise de dados:</h3>
 <div> 
@@ -125,11 +131,7 @@ https://registry.astronomer.io/
 
 - Execução automatica de Atividades
 
-### 12) Engenharia de Dados Academy
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Engenharia de dados Academy</a></p>
-</div> 
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Python_Windows_Services">
