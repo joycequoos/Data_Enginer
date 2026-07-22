@@ -11,7 +11,7 @@ Página dedicada ao estudo de Engenharia de Dados
 ### 01) DataBricks
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Engenharia de dados Academy</a></p>
+<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Estudo sobre o Databricks (em andamento)</a></p>
 </div> 
 
 
