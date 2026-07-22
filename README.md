@@ -8,11 +8,13 @@ Página dedicada ao estudo de Engenharia de Dados
 
 <b>Vamos entender sobre: </b>
 
-### 01) Engenharia de Dados Academy
+### 01) DataBricks
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Engenharia de dados Academy</a></p>
 </div> 
+
+
 
 ### 02) Git/GitHub
 
@@ -122,6 +124,12 @@ https://registry.astronomer.io/
 </div> 
 
 - Execução automatica de Atividades
+
+### 12) Engenharia de Dados Academy
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Engenharia de dados Academy</a></p>
+</div> 
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Python_Windows_Services">
