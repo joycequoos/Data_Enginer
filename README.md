@@ -12,7 +12,7 @@ Página dedicada ao estudo de Engenharia de Dados
 
 <b>Vamos entender sobre: </b>
 
-### 01) DataBricks
+### 01) Databricks Developer Spark, SQL, Python Para Análise de Dados
 
 <div> 
 <p><a href="https://github.com/joycequoos/Databricks-com-linguagem-SQL-Python-PySpark-Para-An-lise-de-Dados-Cloud">Estudo sobre o Databricks (em andamento)</a></p>
