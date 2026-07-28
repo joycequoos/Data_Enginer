@@ -2,145 +2,78 @@
 <p><a href="https://github.com/joycequoos/Principal_Data/blob/main/README.md">Home</a></p>
 </div> 
 
-# ✨ Engenharia de Dados
+# Engenharia de Dados
 
-Página dedicada ao estudo de Engenharia de Dados
+Repositório dedicado ao estudo e à prática de Engenharia de Dados, organizando conteúdos por área — computação em nuvem, orquestração, pipelines de ETL, bancos de dados e projetos aplicados.
 
-<div> 
-<p><a href="https://github.com/joycequoos/Como-surge-engenharia-dados./blob/main/README.md">Como surge a engenharia de dados?</a></p>
-</div> 
+Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/joycequoos/Como-surge-engenharia-dados./blob/main/README.md)
 
-<b>Vamos entender sobre: </b>
+## Cloud & Big Data
 
-### 01) Databricks Developer Spark, SQL, Python Para Análise de Dados
+| Tópico | Recurso |
+|---|---|
+| Databricks (Spark, SQL, Python) | [Estudo sobre Databricks Developer — Spark, SQL, Python (em andamento)](https://github.com/joycequoos/Databricks-com-linguagem-SQL-Python-PySpark-Para-An-lise-de-Dados-Cloud) |
+| Databricks | [Portfólio com Databricks](https://github.com/joycequoos/PortifolioComDatabricks) |
+| AWS | [Visão geral da AWS e seus principais serviços](https://github.com/JosiTubaroski/AWS) |
+| Google Cloud / BigQuery | [Estudos sobre BigQuery](https://github.com/JosiTubaroski/GoogleCloud_BigQuer) |
 
-<div> 
-<p><a href="https://github.com/joycequoos/Databricks-com-linguagem-SQL-Python-PySpark-Para-An-lise-de-Dados-Cloud">Estudo sobre o Databricks Developer Spark, SQL, Python Para Análise de Dados(em andamento)</a></p>
-</div> 
+## Orquestração & Infraestrutura
 
-<div> 
-<p><a href="https://github.com/joycequoos/PortifolioComDatabricks">Portifólio com Databricks</a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| Apache Airflow | [Orquestração de dados — primeiros passos](https://github.com/JosiTubaroski/Apache_Airflow_Princial) |
+| Apache Airflow | [Orquestração de dados — Astro Python SDK](https://github.com/JosiTubaroski/Apache_Airflow_P_2) |
+| Apache Airflow | [DAG para leitura de .csv e carga no BigQuery](https://github.com/JosiTubaroski/airflow-csv-to-bigquery) |
+| Apache Airflow | [Astronomer Registry](https://registry.astronomer.io/) — biblioteca de exemplos e integrações |
+| Docker | [Fundamentos de Docker](https://github.com/JosiTubaroski/Docker/blob/main/README.md) |
+| Kubernetes | [Fundamentos de Kubernetes](https://github.com/JosiTubaroski/Kubernetes) |
 
-### 02) AWS (Amazon Web Services)
+## ETL & Pipelines de Dados
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/AWS">Um pouco sobre o universo da AWS e alguns dos seus principais serviços</a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| SSIS | [Integration Services e exemplos de pacotes .dtsx](https://github.com/JosiTubaroski/ETL_Integration_Service) |
+| Bulk Insert | [ETL utilizando Bulk Insert](https://github.com/JosiTubaroski/BulkInsert/tree/main#readme) |
+| Bulk Insert | [Uso de substring para layout de arquivo com delimitador](https://github.com/JosiTubaroski/BulkInsert/tree/main/Substring_Leitura_layout_arquivo) |
+| Python | [ETL com Python](https://github.com/JosiTubaroski/ETL_com_python) |
+| Airflow | [DAG para leitura de arquivo .csv](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py) |
 
-### 03) Apache Airflow
+## Bancos de Dados & SQL
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_Princial">Orquestração de Dados com Apache Airflow (Primeiros Passos)</a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| SQL | [Exemplos de scripts: DDL, DML, Views, Procedures, Functions](https://github.com/JosiTubaroski/SQL) |
+| SQL Server | [Programação de Stored Procedures](https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure) |
+| SQL Server | [Tuning e otimização de performance](https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.) |
+| SQL + JSON | [Importação de arquivos JSON no SQL](https://github.com/JosiTubaroski/SQL/blob/main/SQL_Json/01_Importar_Arquivo_JsonSQL.sql) |
+| JSON (Python) | [Leitura e entendimento de arquivos JSON em Python](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb) |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Apache_Airflow_P_2">Orquestração de Dados com Apache Airflow (Astro Python SDK)</a></p>
-</div> 
+## Controle de Versão
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/airflow-csv-to-bigquery">Construção de uma DAG do Apache Airflow que lê um arquivo .csv e carrega os dados para o Google BigQuery</a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| Git / GitHub | [Fundamentos de Git e GitHub](https://github.com/JosiTubaroski/Git_GitHub) |
 
-https://registry.astronomer.io/
+## Formação Complementar
 
+| Tópico | Recurso |
+|---|---|
+| Engenharia de Dados Academy | [Fundamentos de Engenharia de Dados](https://github.com/JosiTubaroski/Fundamentos_Engenharia) |
 
-### 04) Docker
+## Projetos em Destaque
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Docker/blob/main/README.md">Docker</a></p>
-</div> 
+| Projeto | Descrição |
+|---|---|
+| [Prevenção à Lavagem de Dinheiro](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Prevencao_Lavagem_Dinheiro/Rastreamento_prevencao_Lavagem_Dinheiro.ipynb) | Rastreamento de transações para identificação de padrões suspeitos. |
+| [API IBGE — Agropecuária (Suínos)](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/APIIBGE_Agropecuarios_com_Suinos/APIIBGE_Agropecuarios_com_Suinos.ipynb) | Consumo de dados públicos do IBGE via API para análise do setor agropecuário. |
+| [Pipeline de Dados com Airflow](https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/README.md) | Pipeline completo para processamento de dados de clientes. |
 
+## Automação de Tarefas
 
-### 05) GoogleCloud / BigQuery 
+| Tópico | Recurso |
+|---|---|
+| Python + Windows Services | [Como instalar um script Python como serviço do Windows](https://github.com/JosiTubaroski/Python_Windows_Services) |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/GoogleCloud_BigQuer">BigQuery</a></p>
-</div> 
+## Contato
 
-### 06)  Kubernetes
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Kubernetes">Kubernetes</a></p>
-</div> 
-
-### 07) ETL (Extract, Transform, Load)
-<div> 
-<p><a href="https://github.com/JosiTubaroski/ETL_Integration_Service">1 - Integration Services e exemplos de arquivos DTSX.</a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/BulkInsert/tree/main#readme">2 - ETL utilizando Bulk Insert.</a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/BulkInsert/tree/main/Substring_Leitura_layout_arquivo">3 - Utilizando substring para layout de arquivo com delimitador.</a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/ETL_com_python">4 - ETL com Python.</a></p>
-</div> 
-
- ### 08) Airflow / ETL
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py">1 - Script de uma DAG que realiza a leitura de um arquivo .csv.</a></p>
-</div> 
-
-### 09) Leitura e entendimento de arquivos JSON
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb">Arquivos JSON em Python</a></p>
-</div> 
-   
-### 10) SQL
-<div> 
-<p><a href="https://github.com/JosiTubaroski/SQL">1 - Exemplos de Scripts: (DDL,DML,Views, Procedures, Functions)</a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure">2 - Programação Stored Procedures</a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.">3 - Tuning SQL Server Developer</a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/SQL/blob/main/SQL_Json/01_Importar_Arquivo_JsonSQL.sql">4 - Importar arquivos JSON no SQL</a></p>
-</div> 
-
-### 11) Git/GitHub
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Git_GitHub">Sobre Git/GitHub </a></p>
-</div> 
-
-### 12) Engenharia de Dados Academy
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Fundamentos_Engenharia">Engenharia de dados Academy</a></p>
-</div> 
-
-
-<h3 align="left">Projetos de Engenharia e Analise de dados:</h3>
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Prevencao_Lavagem_Dinheiro/Rastreamento_prevencao_Lavagem_Dinheiro.ipynb">1 - Prevenção a Lavagem de Dinheiro</a></p>
-</div> 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/APIIBGE_Agropecuarios_com_Suinos/APIIBGE_Agropecuarios_com_Suinos.ipynb">2 - API IBGE Agropecuarios com suínos</a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/README.md">3 - Pipeline de Dados com Airflow, para processamento de dados de Cliente </a></p>
-</div> 
-
-- Execução automatica de Atividades
-
-
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Python_Windows_Services">
- 1 - Python | COMO INSTALAR UM SCRIPT PYTHON NO WINDOWS SERVICES </a></p>
-</div> 
-
-
+Sugestões, dúvidas ou colaborações são bem-vindas — abra uma *issue* ou entre em contato pelo perfil do GitHub.
