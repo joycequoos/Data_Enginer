@@ -36,6 +36,16 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 | Python | [ETL com Python](https://github.com/JosiTubaroski/ETL_com_python) |
 | Airflow | [DAG para leitura de arquivo .csv](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py) |
 
+## Python
+
+| Tópico | Recurso |
+|---|---|
+| Ambiente | [Instalação do Python, VS Code e extensões](https://github.com/JosiTubaroski/Instala_Python_VSCode_Extencoes/blob/main/README.md) |
+| Fundamentos | [Sobre o interpretador do Python](https://github.com/JosiTubaroski/Inter) |
+| Bibliotecas | [Instalando bibliotecas Python](https://github.com/JosiTubaroski/Blibliotecas_Python) |
+| Exercícios | [Exercícios Python (iniciantes)](https://github.com/JosiTubaroski/Python-Exercises) |
+| ETL | [ETL com Python](https://github.com/JosiTubaroski/ETL_com_python) |
+
 ## Bancos de Dados & SQL
 
 | Tópico | Recurso |
