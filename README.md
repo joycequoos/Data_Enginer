@@ -52,7 +52,7 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 | SQL Básico| [Exemplos de scripts: DDL, DML, Views, Procedures, Functions](https://github.com/joycequoos/SQL/blob/main/README.md) |
 | SQL Server - Procedures | [Programação de Stored Procedures](https://github.com/joycequoos/SQL-Server-Developer_ProgramacaoTotalStoredProcedure/blob/main/README.md) |
 | SQL Server - Tuning e otimização| [Tuning e otimização de performance](https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.) |
-| SQL + JSON | [Importação de arquivos JSON no SQL](https://github.com/JosiTubaroski/SQL/blob/main/SQL_Json/01_Importar_Arquivo_JsonSQL.sql) |
+| SQL + JSON | [Importação de arquivos JSON no SQL](https://github.com/joycequoos/SQL/blob/main/SQL_Json/Importar_JsonSQL-README.md) |
 | JSON (Python) | [Leitura e entendimento de arquivos JSON em Python](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb) |
 
 ## Controle de Versão
