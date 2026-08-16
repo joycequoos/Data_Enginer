@@ -43,7 +43,7 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 | Ambiente | [Instalação do Python, VS Code e extensões](https://github.com/JosiTubaroski/Instala_Python_VSCode_Extencoes/blob/main/README.md) |
 | Fundamentos | [Sobre o interpretador do Python](https://github.com/JosiTubaroski/Inter) |
 | Bibliotecas | [Instalando bibliotecas Python](https://github.com/JosiTubaroski/Blibliotecas_Python) |
-| Exercícios | [Exercícios Python (iniciantes)](https://github.com/JosiTubaroski/Python-Exercises) |
+| Exercícios | [Exercícios Python (iniciantes)](https://github.com/joycequoos/Python-Exercises/blob/main/README.md) |
 | ETL | [ETL com Python](https://github.com/JosiTubaroski/ETL_com_python) |
 
 ## Bancos de Dados & SQL
