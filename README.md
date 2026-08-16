@@ -49,7 +49,7 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 
 | Tópico | Recurso |
 |---|---|
-| SQL | [Exemplos de scripts: DDL, DML, Views, Procedures, Functions](https://github.com/JosiTubaroski/SQL) |
+| SQL | [Exemplos de scripts: DDL, DML, Views, Procedures, Functions](https://github.com/joycequoos/SQL/blob/main/README.md) |
 | SQL Server | [Programação de Stored Procedures](https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure) |
 | SQL Server | [Tuning e otimização de performance](https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.) |
 | SQL + JSON | [Importação de arquivos JSON no SQL](https://github.com/JosiTubaroski/SQL/blob/main/SQL_Json/01_Importar_Arquivo_JsonSQL.sql) |
