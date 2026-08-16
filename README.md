@@ -34,7 +34,7 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 | Bulk Insert | [ETL utilizando Bulk Insert](https://github.com/JosiTubaroski/BulkInsert/tree/main#readme) |
 | Bulk Insert | [Uso de substring para layout de arquivo com delimitador](https://github.com/joycequoos/BulkInsert/blob/main/Substring_Leitura_layout_arquivo/Substring_Leitura_layout_arquivo-README.md) |
 | Python | [ETL com Python](https://github.com/JosiTubaroski/ETL_com_python) |
-| Airflow | [DAG para leitura de arquivo .csv](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py) |
+| Airflow | [DAG para leitura de arquivo .csv](https://github.com/joycequoos/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV-README.md) |
 
 ## Python
 
