@@ -44,7 +44,6 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 | Fundamentos | [Sobre o interpretador do Python](https://github.com/JosiTubaroski/Inter) |
 | Bibliotecas | [Instalando bibliotecas Python](https://github.com/JosiTubaroski/Blibliotecas_Python) |
 | Exercícios | [Exercícios Python (iniciantes)](https://github.com/joycequoos/Python-Exercises/blob/main/README.md) |
-| ETL | [ETL com Python](https://github.com/JosiTubaroski/ETL_com_python) |
 
 ## Bancos de Dados & SQL
 
