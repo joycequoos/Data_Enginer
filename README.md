@@ -71,7 +71,7 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 
 | Projeto | Descrição |
 |---|---|
-| [Prevenção à Lavagem de Dinheiro](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Prevencao_Lavagem_Dinheiro/Rastreamento_prevencao_Lavagem_Dinheiro.ipynb) | Rastreamento de transações para identificação de padrões suspeitos. |
+| [Prevenção à Lavagem de Dinheiro](https://github.com/joycequoos/Analise_de_Dados/blob/main/Prevencao_Lavagem_Dinheiro/README.md) | Rastreamento de transações para identificação de padrões suspeitos. |
 | [API IBGE — Agropecuária (Suínos)](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/APIIBGE_Agropecuarios_com_Suinos/APIIBGE_Agropecuarios_com_Suinos.ipynb) | Consumo de dados públicos do IBGE via API para análise do setor agropecuário. |
 | [Pipeline de Dados com Airflow](https://github.com/JosiTubaroski/Pipeline_Airflow/blob/main/README.md) | Pipeline completo para processamento de dados de clientes. |
 
