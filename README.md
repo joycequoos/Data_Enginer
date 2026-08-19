@@ -11,7 +11,6 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 | Tópico | Recurso |
 |---|---|
 | Databricks (Spark, SQL, Python) | [Estudo sobre Databricks Developer — Spark, SQL, Python (em andamento)](https://github.com/joycequoos/Databricks-com-linguagem-SQL-Python-PySpark-Para-An-lise-de-Dados-Cloud) |
-| Databricks | [Portfólio com Databricks](https://github.com/joycequoos/PortifolioComDatabricks) |
 | AWS | [Visão geral da AWS e seus principais serviços](https://github.com/JosiTubaroski/AWS) |
 | Google Cloud / BigQuery | [Estudos sobre BigQuery](https://github.com/JosiTubaroski/GoogleCloud_BigQuer) |
 
