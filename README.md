@@ -61,12 +61,6 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 |---|---|
 | Git / GitHub | [Fundamentos de Git e GitHub](https://github.com/JosiTubaroski/Git_GitHub) |
 
-## Formação Complementar
-
-| Tópico | Recurso |
-|---|---|
-| Engenharia de Dados Academy | [Fundamentos de Engenharia de Dados](https://github.com/JosiTubaroski/Fundamentos_Engenharia) |
-
 ## Projetos em Destaque
 
 | Projeto | Descrição |
@@ -80,6 +74,12 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 | Tópico | Recurso |
 |---|---|
 | Python + Windows Services | [Como instalar um script Python como serviço do Windows](https://github.com/JosiTubaroski/Python_Windows_Services) |
+
+## Roadmap
+
+| Tópico | Recurso |
+|---|---|
+| Roadmap de Estudos em Engenharia de Dados | [Fundamentos de Engenharia de Dados](https://github.com/joycequoos/Fundamentos_Engenharia) |
 
 ## Contato
 
