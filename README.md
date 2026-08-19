@@ -79,7 +79,7 @@ Conteúdo relacionado: [Como surge a engenharia de dados?](https://github.com/jo
 
 | Tópico | Recurso |
 |---|---|
-| Roadmap de Estudos em Engenharia de Dados | [Fundamentos de Engenharia de Dados](https://github.com/joycequoos/Fundamentos_Engenharia) |
+| Roadmap de Estudos em Engenharia de Dados | [Roadmap](https://github.com/joycequoos/Fundamentos_Engenharia) |
 
 ## Contato
 
