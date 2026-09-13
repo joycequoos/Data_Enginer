@@ -32,7 +32,7 @@ Related content: [How does data engineering come about?](https://github.com/joyc
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | SSIS        | [Integration Services and .dtsx package examples](https://github.com/JosiTubaroski/ETL_Integration_Service)                                      |
 | Bulk Insert | [ETL using Bulk Insert](https://github.com/JosiTubaroski/BulkInsert/tree/main#readme)                                                        |
-| Bulk Insert | [Using substring for delimited file layout](https://github.com/JosiTubaroski/BulkInsert/tree/main/Substring_Leitura_layout_arquivo) |
+| Bulk Insert | [Using substring for delimited file layout](https://github.com/joycequoos/BulkInsert/blob/main/Substring_Leitura_layout_arquivo/Substring_Leitura_layout_arquivo-README.md) |
 | Python      | [ETL with Python](https://github.com/JosiTubaroski/ETL_com_python)                                                                                 |
 | Airflow     | [DAG to read .csv file](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Airflow/Dag_Ler_Arquivo_CSV.py)                    |
 
