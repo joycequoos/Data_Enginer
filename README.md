@@ -51,7 +51,7 @@ Related content: [How does data engineering come about?](https://github.com/joyc
 | Topic        | Resource                                                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | SQL           | [Script examples: DDL, DML, Views, Procedures, Functions](https://github.com/JosiTubaroski/SQL)                                                                       |
-| SQL Server    | [Stored Procedure programming](https://github.com/JosiTubaroski/SQL-Server-Developer_ProgramacaoTotalStoredProcedure)                                                 |
+| SQL Server    | [Stored Procedure programming](https://github.com/joycequoos/SQL-Server-Developer_ProgramacaoTotalStoredProcedure/blob/main/README.md)                                                 |
 | SQL Server    | [Performance tuning and optimization](https://github.com/JosiTubaroski/SQL_Server_Developer_Tuning_Codigoscom_maximo_desempenho.)                                          |
 | SQL + JSON    | [Importing JSON files into SQL](https://github.com/JosiTubaroski/SQL/blob/main/SQL_Json/01_Importar_Arquivo_JsonSQL.sql)                                             |
 | JSON (Python) | [Reading and understanding JSON files in Python](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/Arquivos_JSON_Python/Arquivos%20JSON%20em%20Python.ipynb) |
